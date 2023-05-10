@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nodegreate/static/css/main.073c9b0a.css",
+    "main.js": "/nodegreate/static/js/main.ba60294e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/nodegreate/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/nodegreate/index.html",
+    "main.073c9b0a.css.map": "/nodegreate/static/css/main.073c9b0a.css.map",
+    "main.ba60294e.js.map": "/nodegreate/static/js/main.ba60294e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/nodegreate/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ba60294e.js"
+  ]
+}
